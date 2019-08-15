@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"eversureLocal.userpositions"},{"v":1,"unique":true,"key":{"position_type":1},"name":"position_type_1","ns":"eversureLocal.userpositions","background":true}]}
